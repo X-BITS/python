@@ -1,3 +1,7 @@
+# title: count in string
+# desc: counting the sum of all array (list) elements.
+# author: Sahraoui mohammed taher amine.
+
 # Taking data dynamicaly in one single string separated by white spaces
 n = int(input())
 numbers_string = input().split(" ")
