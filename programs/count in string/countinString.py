@@ -1,3 +1,7 @@
+# title: count in string
+# desc: counting the total number of character k occurs in string S
+# author: Sahraoui mohammed taher amine.
+# S= String, k = specific character, T = number of test  of the function solve.  
 def solve (S, k):
     n = 0
     for c in S:
