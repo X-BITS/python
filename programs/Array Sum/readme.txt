@@ -1,22 +1,10 @@
-Problem
-=======
-You are given an array A consisting of N integers. 
-
-Task
-====
-Print the sum of the elements in the array. 
---------------------------------------------------
-Note: Some of the integers may be quite large.
---------------------------------------------------
-Input Format
++--------------------------------------------+
+|                README HERE                 |
++--------------------------------------------+
+Instruction:
 ============
-The first line contains a single integer N denoting the size of the array.  
-The next line contains space-separated integers denoting the elements of the array.
-Output format
+1. Read the pdf file to understand the problem.
+2. Go to the script.py to see the solution I made.
+3. If you can make it better, please don't forget to share it with me, I like to teach and learn and exchange knowledge and people skills.
 
-Print a single value representing the sum of the elements in the array.
-
-Constraints
-===========
-1)  1 <= N <=10
-2)  0 <= a[i] <=10^10
+Thank you. 
