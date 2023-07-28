@@ -1,5 +1,5 @@
 # version : python 3.9   
-# desc    : delete duplication from a given list
+# desc    : check whether a given number is a prime number or not.
 # author  : Sahraoui Mohammed Taher Amine.
 def is_prime(num):
     for i in range(2, num):
