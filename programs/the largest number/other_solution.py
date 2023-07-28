@@ -1,3 +1,7 @@
+# version : python 3.9   
+# desc    : find the maximum number n from nth combination of subnumbers of n taking k number of digits away.
+# author  : Sahraoui Mohammed Taher Amine.
+
 def solve(n, k):
     for j in range(k):
         ans = 0
