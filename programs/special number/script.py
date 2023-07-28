@@ -1,5 +1,5 @@
 # version : python 3.9   
-# desc    : find the maximum number n from nth combination of subnumbers of n taking k number of digits away.
+# desc    : find the special number n . A number n is said to be special if the sum of its digits is divisible by 4. 
 # author  : Sahraoui Mohammed Taher Amine.
 
 def treat(number):
