@@ -1,5 +1,5 @@
 # version : python 3.9   
-# desc    : delete duplication from a given list
+# desc    : creating a stupid tic-tac-toe game
 # author  : Sahraoui Mohammed Taher Amine.
 import random
 def printBoard(board):
