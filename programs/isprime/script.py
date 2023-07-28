@@ -1,3 +1,6 @@
+# version : python 3.9   
+# desc    : delete duplication from a given list
+# author  : Sahraoui Mohammed Taher Amine.
 def is_prime(num):
     for i in range(2, num):
         if num % i  == 0:
