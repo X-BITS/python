@@ -5,12 +5,13 @@
 n = int(input())
 steps = 1
 while n > 0:
-    print(n)
+    print("-> ", n)
     if n % 2 == 0:
         n = n // 2
     else:
         n = 3 * n + 1
     if n == 1:
+        print("-> Here we reached: ", n)
         break;
     steps += 1
-print("steps = ", steps)
+print("steps needed = ", steps)
