@@ -10,3 +10,14 @@ Follow these commands:
 
 # disbale ssh service
 > sudo systemctl ssh stop
+
+
+-------------------------------------------------------------------------------------
+To be able to test script #2 you must enter a valid sha256 hash.
+-------------------------------------------------------------------------------------
+Follow these commands:
+# create a sha256 hash
+> echo -ne 123456 | sha256sum
+
+# run the script
+> python3 sha256-cracking.py <sha256sum>
